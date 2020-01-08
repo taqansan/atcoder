@@ -1,0 +1,11 @@
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/bin/Debug/netcoreapp3.0/template
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/bin/Debug/netcoreapp3.0/template.deps.json
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/bin/Debug/netcoreapp3.0/template.runtimeconfig.json
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/bin/Debug/netcoreapp3.0/template.runtimeconfig.dev.json
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/bin/Debug/netcoreapp3.0/template.dll
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/bin/Debug/netcoreapp3.0/template.pdb
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/obj/Debug/netcoreapp3.0/template.csprojAssemblyReference.cache
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/obj/Debug/netcoreapp3.0/template.AssemblyInfoInputs.cache
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/obj/Debug/netcoreapp3.0/template.AssemblyInfo.cs
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/obj/Debug/netcoreapp3.0/template.dll
+/mnt/c/ubuntu_home/work/atcoder/src/abc/abc086/abc086_c/obj/Debug/netcoreapp3.0/template.pdb
